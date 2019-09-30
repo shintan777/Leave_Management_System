@@ -9,5 +9,5 @@ To use the app-<br>
 <b>3</b>-Go to the app folder and type-<br>
 >>```php artisan serve```<br>
 
-<i>(The app will be visible at localhost://5000)</i>
+<i>(The app will be visible at localhost://8000)</i>
 
